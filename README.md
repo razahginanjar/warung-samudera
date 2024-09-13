@@ -2,7 +2,7 @@
 ## Prerequisites
 - [Java JDK 20](https://adoptium.net/) or later
 - [Maven](https://maven.apache.org/) (for building the project)
-- [MySql](https://www.mysql.com/) (for database)
+- [Postgresql](https://www.postgresql.org/) (for database)
 
 ##  Requirements Dependencies
 - [Spring Web MVC]
